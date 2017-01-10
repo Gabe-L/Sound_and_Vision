@@ -1,0 +1,28 @@
+c:\users\gabriel\documents\visual studio 2015\Projects\Video Program\Video Program\bin\Debug\Video Program.exe.config
+c:\users\gabriel\documents\visual studio 2015\Projects\Video Program\Video Program\bin\Debug\Video Program.exe
+c:\users\gabriel\documents\visual studio 2015\Projects\Video Program\Video Program\bin\Debug\Video Program.pdb
+c:\users\gabriel\documents\visual studio 2015\Projects\Video Program\Video Program\bin\Debug\Interop.WMPLib.dll
+c:\users\gabriel\documents\visual studio 2015\Projects\Video Program\Video Program\bin\Debug\AxInterop.WMPLib.dll
+c:\users\gabriel\documents\visual studio 2015\Projects\Video Program\Video Program\obj\Debug\Video Program.csprojResolveAssemblyReference.cache
+c:\users\gabriel\documents\visual studio 2015\Projects\Video Program\Video Program\obj\Debug\Interop.WMPLib.dll
+c:\users\gabriel\documents\visual studio 2015\Projects\Video Program\Video Program\obj\Debug\AxInterop.WMPLib.dll
+c:\users\gabriel\documents\visual studio 2015\Projects\Video Program\Video Program\obj\Debug\Video Program.csproj.ResolveComReference.cache
+c:\users\gabriel\documents\visual studio 2015\Projects\Video Program\Video Program\obj\Debug\Video_Program.Form1.resources
+c:\users\gabriel\documents\visual studio 2015\Projects\Video Program\Video Program\obj\Debug\Video_Program.Properties.Resources.resources
+c:\users\gabriel\documents\visual studio 2015\Projects\Video Program\Video Program\obj\Debug\Video Program.csproj.GenerateResource.Cache
+c:\users\gabriel\documents\visual studio 2015\Projects\Video Program\Video Program\obj\Debug\Video Program.exe
+c:\users\gabriel\documents\visual studio 2015\Projects\Video Program\Video Program\obj\Debug\Video Program.pdb
+C:\Users\Gabriel\Desktop\Video Program\Video Program\bin\Debug\Video Program.exe.config
+C:\Users\Gabriel\Desktop\Video Program\Video Program\obj\Debug\Interop.WMPLib.dll
+C:\Users\Gabriel\Desktop\Video Program\Video Program\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Gabriel\Desktop\Video Program\Video Program\obj\Debug\Video Program.csproj.ResolveComReference.cache
+C:\Users\Gabriel\Desktop\Video Program\Video Program\obj\Debug\Video Program.exe
+C:\Users\Gabriel\Desktop\Video Program\Video Program\obj\Debug\Video Program.pdb
+C:\Users\Gabriel\Desktop\Video Program\Video Program\bin\Debug\Video Program.exe
+C:\Users\Gabriel\Desktop\Video Program\Video Program\bin\Debug\Video Program.pdb
+C:\Users\Gabriel\Desktop\Video Program\Video Program\bin\Debug\Interop.WMPLib.dll
+C:\Users\Gabriel\Desktop\Video Program\Video Program\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Gabriel\Desktop\Video Program\Video Program\obj\Debug\Video Program.csprojResolveAssemblyReference.cache
+C:\Users\Gabriel\Desktop\Video Program\Video Program\obj\Debug\Video_Program.Form1.resources
+C:\Users\Gabriel\Desktop\Video Program\Video Program\obj\Debug\Video_Program.Properties.Resources.resources
+C:\Users\Gabriel\Desktop\Video Program\Video Program\obj\Debug\Video Program.csproj.GenerateResource.Cache
